@@ -1,1 +1,12 @@
+title: Luca DENTI
+description:
+
+show_downloads: false
+
+github:
+  is_project_page: false
+
 theme: jekyll-theme-hacker
+
+plugins:
+  - jemoji
