@@ -15,12 +15,15 @@
     <header>
       <div class="container">
         <h1><a href="/" style="text-decoration:none; color:inherit;"><i class="fa fa-home"></i> {{ site.title | default: site.github.repository_name }}</a></h1>
-        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+        <h2><i>&quot;I know that I know nothing&quot; (Socrates)</i></h2>
 
 	<section id="menu">
 	    {% for item in site.data.navigation %}
 	    <a href="{{ item.url }}" class="btn">{{ item.title }}</a>
 	    {% endfor %}
+	    <div class="btn">
+	      <i class="fa fa-cog fa-spin fa-1x fa-fw"></i> Work-in-Progress <i class="fa fa-cog fa-spin fa-1x fa-fw"></i>
+	    </div>
 	</section>
 
         <section id="downloads">
@@ -52,4 +55,10 @@
     </script>
     {% endif %}
   </body>
+
+  <footer>
+    <div class="container">
+      <p align="right" style="font-size:11px"><i>Last update: Oct 19, 2020</i></p>
+    </div>
+  </footer>
 </html>

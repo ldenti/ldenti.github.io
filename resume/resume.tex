@@ -1,0 +1,329 @@
+%-------------------------
+% Resume in Latex
+% Author : Jake Gutierrez
+% Based off of: https://github.com/sb2nov/resume
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+\usepackage{fontawesome}
+\usepackage{etaremune}
+
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING----------
+% \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+%   \textbf{\href{http://sourabhbajaj.com/}{\Large Sourabh Bajaj}} & Email : \href{mailto:sourabh@sourabhbajaj.com}{sourabh@sourabhbajaj.com}\\
+%   \href{http://sourabhbajaj.com/}{http://www.sourabhbajaj.com} & Mobile : +1-123-456-7890 \\
+% \end{tabular*}
+
+\begin{center}
+    \textbf{\Huge \scshape Luca Denti} \\ \vspace{1pt}
+    \small \faMobile~+39 366 483 7147 $|$
+    \Letter~\href{mailto:ldenti@pasteur.fr}{ldenti@pasteur.fr} $|$
+    \faHome~\href{https://ldenti.github.io}{ldenti.github.io} $|$
+    \faGithub~\href{https://github.com/ldenti}{github.com/ldenti}
+\end{center}
+
+% \section{Research Interests}
+% My main interests include bioinformatics and programming languages. I'm particularly interested in designing efficient algorithms and data structures and developing fast and easy-to-use tools to solve biological problems that stem from the analysis of Next-Generation Sequencing data. More broadly, my interests involve data structures, combinatorial problems on strings and graphs, and programming languages.
+
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Doctor of Philosophy in Computer Science}{Nov. 2016 -- Oct. 2019}
+      {University of Milano - Bicocca}{Milano, Italy}
+      \resumeItemListStart
+      \resumeItem{Thesis: ``Algorithms for analyzing genetic variability from Next-Generation Sequencing data''}
+      \resumeItem{Supervisors: Prof. Paola Bonizzoni, Dr. Raffaella Rizzi, Dr. Marco Previtali}
+      \resumeItemListEnd
+    \resumeSubheading
+      {Master's Degree in Computer Science}{Nov. 2014 -- Oct. 2016}
+      {University of Milano - Bicocca}{Milano, Italy}
+      \resumeItemListStart
+      \resumeItem{Thesis: ``A new algorithmic approach for the approximate alignment of a string to a graph''}
+      \resumeItem{Supervisors: Prof. Paola Bonizzoni, Dr. Raffaella Rizzi}
+      \resumeItemListEnd
+    \resumeSubheading
+      {Bachelor's Degree in Computer Science}{Oct. 2011 -- Oct. 2014}
+      {University of Milano - Bicocca}{Milano, Italy}
+      \resumeItemListStart
+      \resumeItem{Thesis: ``Development of an enhanced Petri Net simulator''}
+      \resumeItem{Supervisors: Dr. Luca Bernardinello, Prof. Lucia Pomello}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+\section{Awards}
+ \begin{itemize}
+    \small{
+        \item Best Poster Award, RECOMB2018
+    }
+ \end{itemize}
+ 
+\section{Open Source Software}
+    \resumeSubHeadingListStart
+      \resumeProjectHeading {\textbf{ASGAL} $|$ \emph{C++, Python}}{\href{https://asgal.algolab.eu/}{asgal.algolab.eu}}
+      \resumeProjectHeading {\textbf{MALVA} $|$ \emph{C++}}{\href{https://algolab.github.io/malva/}{algolab.github.io/malva}}
+      \resumeProjectHeading {\textbf{Shark} $|$ \emph{C++}}{\href{https://github.com/AlgoLab/shark}{github.com/AlgoLab/shark}}
+      \resumeProjectHeading {\textbf{MALVIRUS} $|$ \emph{Snakemake, Python, Bash}}{\href{https://algolab.github.io/MALVIRUS/}{algolab.github.io/MALVIRUS}}
+      \resumeProjectHeading {\textbf{ppvcf} $|$ \emph{C++}}{\href{https://ldenti.github.io/ppvcf/}{ldenti.github.io/ppvcf}}
+    \resumeSubHeadingListEnd
+
+\section{Experience}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Postdoctoral Researcher}{Sep. 2020 -- Present}
+      {Institut Pasteur}{Paris, France}
+      \resumeItemListStart
+        \resumeItem{Supervisor: Dr. Rayan Chikhi}
+      \resumeItemListEnd
+    \resumeSubheading
+      {Research Fellowship (8 months)}{Jan. 2020 -- Aug. 2020}
+      {University of Milano - Bicocca}{Milano, Italy}
+      \resumeItemListStart
+        \resumeItem{Project: ``Algorithms to detect alternative splicing events''}
+        \resumeItem{Supervisor: Dr. Yuri Pirola}
+      \resumeItemListEnd
+    \resumeSubheading
+      {Professional partnership (14 days)}{Nov. 2019}
+      {University of Milano - Bicocca}{Milano, Italy}
+      \resumeItemListStart
+        \resumeItem{Computer Science Lab and DNA Analysis 2019}
+      \resumeItemListEnd
+    \resumeSubheading
+      {Visiting Period}{Feb. 2019 -- Apr. 2019}
+      {Life Sciences and Health group, CWI}{Amsterdam, The Netherlands}
+      \resumeItemListStart
+        \resumeItem{Supervisor: Leen Stougie}
+      \resumeItemListEnd
+    \resumeSubheading
+      {Visiting Period}{Oct. 2018 -- Dec. 2018}
+      {Life Sciences and Health group, CWI}{Amsterdam, The Netherlands}
+      \resumeItemListStart
+        \resumeItem{Supervisor: Alexander Sch\"{o}nhuth}
+      \resumeItemListEnd
+    \resumeSubheading
+      {Substitute teaching (8 hours) - Computer Science}{Dec. 2017}
+      {High School ``B. Russell''}{Garbagnate Milanese, Italy}
+    \resumeSubheading
+      {Professional partnership (2 months)}{2017}
+      {University of Milano - Bicocca}{Milano, Italy}
+      \resumeItemListStart
+        \resumeItem{Pattern matching on pangenome}
+        \resumeItem{Supervisor: Prof. Paola Bonizzoni}
+      \resumeItemListEnd
+    \resumeSubheading
+      {Activity of data entry on CRM}{2013}
+      {Dos\&Donts S.r.l.}{Rho, Italy}
+  \resumeSubHeadingListEnd
+      
+% -----------Multiple Positions Heading-----------
+%    \resumeSubSubheading
+%     {Software Engineer I}{Oct 2014 - Sep 2016}
+%     \resumeItemListStart
+%        \resumeItem{Apache Beam}
+%          {Apache Beam is a unified model for defining both batch and streaming data-parallel processing pipelines}
+%     \resumeItemListEnd
+%    \resumeSubHeadingListEnd
+%-------------------------------------------
+
+
+\section{Teaching Experience}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Teaching assistant}{2016 -- Present}
+      {University of Milano - Bicocca}{Milan, Italy}
+      \resumeItemListStart
+        \resumeItem{Programming Language Laboratory, \textit{Bachelor's Degree in Statistics} (a.y. 2019/2020)}
+        \resumeItem{Foundations of Computer Science, \textit{Master's Degree in Data Science} (a.y. 2019/2020)}
+        \resumeItem{Design and Analysis of Algorithms, \textit{Bachelor's Degree in Computer Science} (a.y. 2016/2017, 2017/2018, 2018/2019, 2019/2020)}
+        \resumeItem{Algorithms and Data Structure, \textit{Bachelor's Degree in Computer Science} (a.y. 2016/2017, 2019/2020)}
+      \resumeItemListEnd
+    \resumeSubheading
+      {Cosupervisor of undergraduate final project}{2016 -- Present}
+      {University of Milano - Bicocca}{Milan, Italy}
+      \resumeItemListStart
+        \resumeItem{Detecting novel exons with enhanced splicing graphs, C++ implementation (a.y. 2019/20)}
+        \resumeItem{Greedy MEM-based alignment to splicing graphs (a.y. 2019/20)}
+        \resumeItem{Read alignment to a multi-gene splicing graph (a.y. 2018/19)}
+        \resumeItem{Detecting novel exons with enhanced splicing graphs, python implementation (a.y. 2018/19)}
+        \resumeItem{Detection of Local Splicing Variation via alignment to a splicing graph (a.y. 2017/18)}
+        \resumeItem{Comparison of tools for alternative splicing analysis (a.y. 2017/18)}
+        \resumeItem{Comparison of tools for read alignment (a.y. 2016/17)}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+\section{Publications}
+Joint first/last authors are indicated with *. Any preprint is marked with a \(\dagger\).
+{\small
+\begin{etaremune}
+    \item L. Denti*, Y. Pirola*, M. Previtali*, T. Ceccato, G. Della Vedova, R. Rizzi, P. Bonizzoni. Shark: fishing relevant reads in an RNA-Seq sample. Bioinformatics (2020)
+   
+    \item S. Ciccolella, G. Bernardini, P. Bonizzoni, M. Previtali, G. Della Vedova. Triplet-based similarity score for fully multi-labeled trees with poly-occurring labels. Bioinformatics (2020)
+
+    \item \(\dagger\) S. Ciccolella*, L. Denti*, P. Bonizzoni, G. Della Vedova, Y. Pirola*, and M. Previtali*. MALVIRUS: an integrated web application for viral variant calling. bioRxiv (2020)
+   
+    \item L. Denti*, M. Previtali*, G. Bernardini, A. Sch\"{o}nhuth, P. Bonizzoni. MALVA: genotyping by Mapping-free ALlele detection of known VAriants. Iscience (2019)
+   
+    \item S. Beretta, L. Denti, M. Previtali. Graph Theory and Definitions. Encyclopedia of Bioinformatics and Computational Biology (2019)
+   
+    \item S. Beretta, L. Denti, M. Previtali. Network Properties. Encyclopedia of Bioinformatics and Computational Biology (2019)
+   
+    \item L. Denti, R. Rizzi, S. Beretta, G. Della Vedova, M. Previtali, P. Bonizzoni. ASGAL: aligning RNA-Seq data to a splicing graph to detect novel alternative splicing events. BMC Bioinformatics (2018)
+    
+    \item S. Beretta, P. Bonizzoni, L. Denti, M. Previtali, R. Rizzi. Mapping RNA-seq data to a transcript graph via approximate pattern matching to a hypertext. International Conference on Algorithms for Computational Biology. Springer (2017)
+\end{etaremune}
+}
+
+\section{Talks}
+{\small
+\begin{etaremune}
+    \item Dynamic quasi-minimal perfect hash function for k-mers. DSB2020
+    \item MALVA: genotyping by Mapping-free ALlele detection of known VAriants. BITS2019
+    \item MALVA: genotyping by Mapping-free ALlele detection of known VAriants. RECOMBSEQ2019
+    \item Mapping RNA-seq data to a transcript graph via approximate pattern matching to a hypertext. AlCoB2017
+\end{etaremune}
+}
+
+\section{Posters}
+{\small
+\begin{etaremune}
+    \item MALVA: genotyping by Mapping-free ALlele detection of known VAriants. RECOMB2019
+    \item ASGAL: aligning RNA-Seq data to a splicing graph to detect novel alternative splicing events. RECOMB2018
+\end{etaremune}
+}
+
+\section{Professional Activities}
+\resumeSubHeadingListStart
+    \resumeSubheading
+      {Peer-Reviewer}{}
+      {Journals:}{}
+      \resumeItemListStart
+        \resumeItem{Bioinformatics, Nucleic Acids Research, F1000Research}
+      \resumeItemListEnd
+    \resumeSubSubheading
+      {Conferences:}{}
+      \resumeItemListStart
+        \resumeItem{WABI (2019,2020), ISBRA (2018,2020), BIBM (2018), BICOB (2018), SPIRE (2017), ICCS (2017)}
+      \resumeItemListEnd      
+\resumeSubHeadingListEnd
+
+
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages}{: C/C++, Python, Java, Bash, \LaTeX} \\
+     \textbf{Frameworks}{: Snakemake} \\
+     \textbf{Developer Tools}{: Git, Docker} \\
+     \textbf{Libraries}{: biopython, gffutils, pysam, pandas, NumPy, Matplotlib, Seaborn}
+    }}
+ \end{itemize}
+
+\section{References}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Prof. Paola Bonizzoni}{, University of Milano - Bicocca \hfill \href{mailto:paola.bonizzoni@unimib.it}{paola.bonizzoni@unimib.it}}\\
+     \textbf{Prof. Alexander Sch\"{o}nhuth}{, University of Bielefeld \hfill \href{mailto:aschoen@cebitec.uni-bielefeld.de}{aschoen@cebitec.uni-bielefeld.de}}
+    }}
+ \end{itemize}
+ 
+%-------------------------------------------
+\end{document}
+ 

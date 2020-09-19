@@ -3,3 +3,7 @@ Gemfile
 Gemfile.lock
 _includes
 _site
+*.aux
+*.log
+*.out
+*.synctex.gz

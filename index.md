@@ -1,13 +1,8 @@
-<div align="center">
-     <i class="fa fa-cog fa-spin fa-1x fa-fw"></i> Work-in-Progress <i class="fa fa-cog fa-spin fa-1x fa-fw"></i>
-</div>
-<br/>
-
-![](./resources/photo.jpg){:style="float: right;margin-right: 1px;margin-top: -17px;margin-left: 20px;" height="19%" width="19%"} I'm currently a post-doc in [Rayan Chikhi](http://rayan.chikhi.name/)'s lab ([Sequence Bioinformatics](https://research.pasteur.fr/en/team/sequence-bioinformatics/)) at Institut Pasteur.
+![](./imgs/photo.jpg){:style="float: right;margin-right: 1px;margin-top: -17px;margin-left: 20px;" height="17%" width="17%"} I'm currently a post-doc in [Rayan Chikhi](http://rayan.chikhi.name/)'s lab ([Sequence Bioinformatics](https://research.pasteur.fr/en/team/sequence-bioinformatics/)) at Institut Pasteur.
 
 My research focus on developing algorithms and data structures for analyzing WGS data. In other words, I really enjoy programming and playing with any kind of biological data. 
 
-In my free time I like to play videogames, play basketball, and watch NBA games. 
+In my free time I like reading, playing videogames, playing basketball, and watching NBA games.
 
 <br/> <br/>
 
@@ -31,6 +26,7 @@ Supervisors: Paola Bonizzoni, Raffaella Rizzi, and Marco Previtali
 
 <div align="right">
      <a class="fa fa-envelope fa-3x" href="mailto:ldenti@pasteur.fr" style="text-decoration:none; color:inherit;"></a>
+     <a class="ai ai-cv fa-3x" href="/resume/resume.pdf" style="text-decoration:none; color:inherit;"></a>	
      <a class="ai ai-google-scholar ai-3x" href="https://scholar.google.com/citations?user=qu5pdV0AAAAJ" style="text-decoration:none; color:inherit;"></a>
      <a class="ai ai-orcid ai-3x" href="https://orcid.org/0000-0001-8786-2276" style="text-decoration:none; color:inherit;"></a>
      <a class="ai ai-publons ai-3x" href="https://publons.com/researcher/3334891/luca-denti/" style="text-decoration:none; color:inherit;"></a>
