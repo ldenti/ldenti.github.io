@@ -1,5 +1,9 @@
 # Publications
 
+1. <i class="ai ai-open-access ai-2x"/> P. Khorsand\*, L. Denti\*, Human Genome Structural Variant Consortium, P. Bonizzoni, R. Chikhi, F. Hormozdiari\\
+**Comparative genome analysis using sample-specific string detection in accurate long reads**\\
+*Bioinformatics Advances (2021)* <a class="ai ai-doi ai-lg" href="https://doi.org/10.1093/bioadv/vbab005" style="text-decoration:none; color:inherit;"/>
+
 1. <i class="ai ai-open-access ai-2x"/> L. Denti\*, Y. Pirola\*, M. Previtali\*, T. Ceccato, G. Della Vedova, R. Rizzi, P. Bonizzoni\\
 **Shark: fishing relevant reads in an RNA-Seq sample**\\
 *Bioinformatics (2020)* <a class="ai ai-doi ai-lg" href="https://doi.org/10.1093/bioinformatics/btaa779" style="text-decoration:none; color:inherit;"/>
@@ -36,6 +40,9 @@
 <br/>
 
 # Talks
+1. **Comparative genome analysis using sample-specific string detection in accurate long reads**\\
+*DSB2021 - Milano, Italy (virtual)*
+
 1. **Dynamic quasi-minimal perfect hash function for k-mers** *(work-in-progress talk)*\\
 *DSB2020 - Rennes, France*
 
