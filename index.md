@@ -1,4 +1,4 @@
-![](./imgs/photo.jpg){:style="float: right;margin-right: 1px;margin-top: -17px;margin-left: 20px;" height="17%" width="17%"} I'm currently a post-doc in [Rayan Chikhi](http://rayan.chikhi.name/)'s lab ([Sequence Bioinformatics](https://research.pasteur.fr/en/team/sequence-bioinformatics/)) at Institut Pasteur.
+![](./imgs/photo.jpg){:style="float: right;margin-right: 1px;margin-top: -17px;margin-left: 20px;" height="15%" width="15%"} I'm currently a post-doc in [Rayan Chikhi](http://rayan.chikhi.name/)'s lab ([Sequence Bioinformatics](https://research.pasteur.fr/en/team/sequence-bioinformatics/)) at Institut Pasteur.
 
 My research focuses on developing algorithms and data structures for analyzing WGS data. In other words, I really enjoy programming and playing with any kind of biological data. 
 
