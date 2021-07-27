@@ -41,6 +41,9 @@
 
 # Talks
 1. **Comparative genome analysis using sample-specific string detection in accurate long reads**\\
+*HiTSeq2021 - Lyon, France (virtual)*
+
+1. **Comparative genome analysis using sample-specific string detection in accurate long reads**\\
 *DSB2021 - Milano, Italy (virtual)*
 
 1. **Dynamic quasi-minimal perfect hash function for k-mers** *(work-in-progress talk)*\\
