@@ -1,5 +1,9 @@
 # Publications
 
+1. <i class="ai ai-biorxiv ai-2x"/> L. Denti\*, P. Khorsand\*, P. Bonizzoni, F. Hormozdiari, R. Chikhi\\
+**Improved structural variant discovery in hard-to-call regions using sample-specific string detection from accurate long reads**\\
+*bioRxiv (2022)* <a class="ai ai-doi ai-lg" href="https://doi.org/10.1101/2022.02.12.480198" style="text-decoration:none; color:inherit;"/>
+
 1. <i class="ai ai-open-access ai-2x"/> P. Khorsand\*, L. Denti\*, Human Genome Structural Variant Consortium, P. Bonizzoni, R. Chikhi, F. Hormozdiari\\
 **Comparative genome analysis using sample-specific string detection in accurate long reads**\\
 *Bioinformatics Advances (2021)* <a class="ai ai-doi ai-lg" href="https://doi.org/10.1093/bioadv/vbab005" style="text-decoration:none; color:inherit;"/>
