@@ -1,8 +1,8 @@
 ![](./imgs/photo.jpg){:style="float: right;margin-right: 1px;margin-top: -17px;margin-left: 20px;" height="15%" width="15%"} I'm currently a post-doc in [Paola Bonizzoni](https://www.unimib.it/paola-bonizzoni)'s lab ([BIAS](https://algolab.eu/)) at University of Milano-Bicocca.
 
-My research focuses on developing algorithms and data structures for analyzing WGS data. In other words, I really enjoy programming and playing with any kind of biological data. 
+My research focuses on developing heuristics and tools for the analysis of WGS data. In other words, I really enjoy programming and playing with any kind of sequencing data. 
 
-In my free time I like reading, playing videogames, playing basketball, and watching NBA games.
+In my free time I like playing videogames, playing basketball, and watching NBA games.
 
 <br/> <br/>
 
@@ -17,10 +17,11 @@ Supervisors: Paola Bonizzoni, Raffaella Rizzi, and Marco Previtali
 <br/>
 
 ### Software
-* [MALVA](https://algolab.github.io/malva/), a tool for genotyping freshly-sequenced individuals
+* [SVDSS](https://github.com/Parsoa/SVDSS), a tool for calling SVs from PacBio HiFi data
+* [MALVA](https://algolab.github.io/malva), a tool for genotyping freshly-sequenced individuals
 * [Shark](https://github.com/AlgoLab/shark), a tool for filtering RNA-Seq samples
-* [MALVIRUS](https://algolab.github.io/MALVIRUS/), a pipeline for genotyping freshly-sequenced viral strains
-* [ASGAL](https://asgal.algolab.eu/), a tool for detecting Alternative Splicing events by mapping RNA-Seq reads to splicing graphs
+* [MALVIRUS](https://algolab.github.io/MALVIRUS), a pipeline for genotyping freshly-sequenced viral strains
+* [ASGAL](https://asgal.algolab.eu), a tool for detecting Alternative Splicing events by mapping RNA-Seq reads to splicing graphs
 
 <br/>
 

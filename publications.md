@@ -44,6 +44,9 @@
 <br/>
 
 # Talks
+1. **Structural Variations Discovery from Specific Strings**\\
+*Nov. 9, 2022. Comenius University (invited by Tomas Vinar)*
+
 1. **Comparative genome analysis using sample-specific string detection in accurate long reads**\\
 *HiTSeq2021 - Lyon, France (virtual)*
 
