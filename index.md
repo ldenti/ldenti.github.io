@@ -18,6 +18,8 @@ Supervisors: Paola Bonizzoni, Raffaella Rizzi, and Marco Previtali
 
 ### Software
 * [SVDSS](https://github.com/Parsoa/SVDSS), a tool for calling SVs from PacBio HiFi data
+* [pantas](https://github.com/AlgoLab/pantas), a tool for quantifying AS events from spliced pangenome graphs
+* [ESGq](https://github.com/AlgoLab/ESGq), a tool for quantifying annotated AS events using event splicing graphs
 * [MALVA](https://algolab.github.io/malva), a tool for genotyping freshly-sequenced individuals
 * [Shark](https://github.com/AlgoLab/shark), a tool for filtering RNA-Seq samples
 * [MALVIRUS](https://algolab.github.io/MALVIRUS), a pipeline for genotyping freshly-sequenced viral strains
