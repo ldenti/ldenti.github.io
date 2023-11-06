@@ -2,7 +2,7 @@
 
 1. <i class="ai ai-open-access ai-2x"/> D. Cozzi, P. Bonizzoni, L. Denti\\
 **ESGq: Alternative Splicing Events Quantification across Conditions based on Event Splicing Graphs**\\
-*ITAT Proceedings (2023)* <a class="fa-regular fa-file-pdf" href="https://ceur-ws.org/Vol-3498/paper31.pdf" style="text-decoration:none; color:inherit;"/>
+*ITAT Proceedings (2023)* <a class="fa fa-file-pdf-o" href="https://ceur-ws.org/Vol-3498/paper31.pdf" style="text-decoration:none; color:inherit;"/>
 
 1. <i class="ai ai-closed-access ai-2x"/> L. Denti\*, P. Khorsand\*, P. Bonizzoni, F. Hormozdiari, R. Chikhi\\
 **SVDSS: structural variation discovery in hard-to-call genomic regions using sample-specific strings from accurate long reads**\\
@@ -11,6 +11,10 @@
 1. <i class="ai ai-open-access ai-2x"/> S. Ciccolella\*, L. Denti\*, P. Bonizzoni, G. Della Vedova, Y. Pirola\*, and M. Previtali\*\\
 **MALVIRUS: an integrated web application for viral variant calling**\\
 *BMC Bioinformatics (2022)* <a class="ai ai-doi ai-lg" href="https://doi.org/10.1186/s12859-022-04668-0" style="text-decoration:none; color:inherit;"/>
+
+1. <i class="ai ai-springer ai-2x"/> G. Bernardini\*, L. Denti, M. Previtali\\
+**Alignment-Free Genotyping of Known Variations with MALVA**\\
+*Methods in Molecular Biology (2022)* <a class="ai ai-doi ai-lg" href="https://doi.org/10.1007/978-1-0716-2293-3_15" style="text-decoration:none; color:inherit;"/>
 
 1. <i class="ai ai-open-access ai-2x"/> P. Khorsand\*, L. Denti\*, Human Genome Structural Variant Consortium, P. Bonizzoni, R. Chikhi, F. Hormozdiari\\
 **Comparative genome analysis using sample-specific string detection in accurate long reads**\\
