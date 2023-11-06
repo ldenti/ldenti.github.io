@@ -2,8 +2,6 @@
 
 My research focuses on developing heuristics and tools for the analysis of WGS data. In other words, I really enjoy programming and playing with any kind of sequencing data. 
 
-In my free time I like playing videogames, playing basketball, and watching NBA games.
-
 <br/> <br/>
 
 ### Education
