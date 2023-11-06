@@ -1,8 +1,12 @@
 # Publications
 
-1. <i class="ai ai-biorxiv ai-2x"/> L. Denti\*, P. Khorsand\*, P. Bonizzoni, F. Hormozdiari, R. Chikhi\\
-**Improved structural variant discovery in hard-to-call regions using sample-specific string detection from accurate long reads**\\
-*bioRxiv (2022)* <a class="ai ai-doi ai-lg" href="https://doi.org/10.1101/2022.02.12.480198" style="text-decoration:none; color:inherit;"/>
+1. <i class="ai open-access ai-2x"/> D. Cozzi, P. Bonizzoni, L. Denti\\
+**ESGq: Alternative Splicing Events Quantification across Conditions based on Event Splicing Graphs**\\
+*ITAT Proceedings (2023)* <a class="ai ai-file-pdf ai-lg" href="https://ceur-ws.org/Vol-3498/paper31.pdf" style="text-decoration:none; color:inherit;"/>
+
+1. <i class="ai closed-access ai-2x"/> L. Denti\*, P. Khorsand\*, P. Bonizzoni, F. Hormozdiari, R. Chikhi\\
+**SVDSS: structural variation discovery in hard-to-call genomic regions using sample-specific strings from accurate long reads**\\
+*Nature Methods (2023)* <a class="ai ai-doi ai-lg" href="https://doi.org/10.1038/s41592-022-01674-1" style="text-decoration:none; color:inherit;"/>
 
 1. <i class="ai ai-open-access ai-2x"/> S. Ciccolella\*, L. Denti\*, P. Bonizzoni, G. Della Vedova, Y. Pirola\*, and M. Previtali\*\\
 **MALVIRUS: an integrated web application for viral variant calling**\\
@@ -44,6 +48,13 @@
 <br/>
 
 # Talks
+
+1. **ESGq: Alternative Splicing Events Quantification across Conditions based on Event Splicing Graphs**\\
+*ITAT23. Tatranské Matliare, Slovakia*
+
+1. **SVDSS: structural variation discovery in hard-to-call genomic regions using sample-specific strings from accurate long reads**\\
+*RECOMB2023 - Instambul, Turkey*
+
 1. **Structural Variations Discovery from Specific Strings**\\
 *Nov. 9, 2022. Comenius University (invited by Tomas Vinar)*
 
