@@ -8,6 +8,10 @@
 **SVDSS: structural variation discovery in hard-to-call genomic regions using sample-specific strings from accurate long reads**\\
 *Nature Methods (2023)* <a class="ai ai-doi ai-lg" href="https://doi.org/10.1038/s41592-022-01674-1" style="text-decoration:none; color:inherit;"/>
 
+1. <i class="ai ai-biorxiv ai-2x"/> J.A. Cartes, P. Bonizzoni, S. Ciccolella, G. Della Vedova, L. Denti, D. Monti, Y. Pirola, F. Porto\\
+**RecGraph: adding recombinations to sequence-to-graph alignment**\\
+*bioRxiv (2022)* <a class="ai ai-doi ai-lg" href="https://doi.org/10.1101/2022.10.27.513962" style="text-decoration:none; color:inherit;"/>
+
 1. <i class="ai ai-open-access ai-2x"/> S. Ciccolella\*, L. Denti\*, P. Bonizzoni, G. Della Vedova, Y. Pirola\*, and M. Previtali\*\\
 **MALVIRUS: an integrated web application for viral variant calling**\\
 *BMC Bioinformatics (2022)* <a class="ai ai-doi ai-lg" href="https://doi.org/10.1186/s12859-022-04668-0" style="text-decoration:none; color:inherit;"/>
