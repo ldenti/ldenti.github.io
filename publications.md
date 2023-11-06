@@ -57,7 +57,7 @@
 *ITAT23. Tatranské Matliare, Slovakia*
 
 1. **SVDSS: structural variation discovery in hard-to-call genomic regions using sample-specific strings from accurate long reads**\\
-*RECOMB2023 - Instambul, Turkey*
+*RECOMB2023 - Instanbul, Turkey*
 
 1. **Structural Variations Discovery from Specific Strings**\\
 *Nov. 9, 2022. Comenius University (invited by Tomas Vinar)*
