@@ -2,7 +2,7 @@
 
 1. <i class="ai ai-open-access ai-2x"/> D. Cozzi, P. Bonizzoni, L. Denti\\
 **ESGq: Alternative Splicing Events Quantification across Conditions based on Event Splicing Graphs**\\
-*ITAT Proceedings (2023)* <a class="fa fa-file-pdf-o" href="https://ceur-ws.org/Vol-3498/paper31.pdf" style="text-decoration:none; color:inherit;"/>
+*ITAT Proceedings (2023)* <a class="fa fa-ceur" href="https://ceur-ws.org/Vol-3498/paper31.pdf" style="text-decoration:none; color:inherit;"/>
 
 1. <i class="ai ai-closed-access ai-2x"/> L. Denti\*, P. Khorsand\*, P. Bonizzoni, F. Hormozdiari, R. Chikhi\\
 **SVDSS: structural variation discovery in hard-to-call genomic regions using sample-specific strings from accurate long reads**\\
