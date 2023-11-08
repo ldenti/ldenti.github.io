@@ -1,12 +1,16 @@
 # Publications
 
+1. <i class="ai ai-closed-access ai-2x"/> L. Denti\*, P. Khorsand\*, P. Bonizzoni, F. Hormozdiari, R. Chikhi\\
+**SVDSS: structural variation discovery in hard-to-call genomic regions using sample-specific strings from accurate long reads**\\
+*Nature Methods (2023)* <a class="ai ai-doi ai-lg" href="https://doi.org/10.1038/s41592-022-01674-1" style="text-decoration:none; color:inherit;"/>
+
 1. <i class="ai ai-open-access ai-2x"/> D. Cozzi, P. Bonizzoni, L. Denti\\
 **ESGq: Alternative Splicing Events Quantification across Conditions based on Event Splicing Graphs**\\
 *ITAT Proceedings (2023)* <a class="ai ai-ceur ai-lg" href="https://ceur-ws.org/Vol-3498/paper31.pdf" style="text-decoration:none; color:inherit;"/>
 
-1. <i class="ai ai-closed-access ai-2x"/> L. Denti\*, P. Khorsand\*, P. Bonizzoni, F. Hormozdiari, R. Chikhi\\
-**SVDSS: structural variation discovery in hard-to-call genomic regions using sample-specific strings from accurate long reads**\\
-*Nature Methods (2023)* <a class="ai ai-doi ai-lg" href="https://doi.org/10.1038/s41592-022-01674-1" style="text-decoration:none; color:inherit;"/>
+1. <i class="ai ai-biorxiv ai-2x"/>  S. Ciccolella, D. Cozzi, G. Della Vedova, S. Kuria, P. Bonizzoni, L. Denti\\
+**Differential quantification of alternative splicing events on spliced pangenome graphs**\\
+*bioRxiv (2023)* <a class="ai ai-doi ai-lg" href="https://doi.org/10.1101/2023.11.06.565751" style="text-decoration:none; color:inherit;"/>
 
 1. <i class="ai ai-biorxiv ai-2x"/> J.A. Cartes, P. Bonizzoni, S. Ciccolella, G. Della Vedova, L. Denti, D. Monti, Y. Pirola, F. Porto\\
 **RecGraph: adding recombinations to sequence-to-graph alignment**\\
