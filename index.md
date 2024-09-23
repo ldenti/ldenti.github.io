@@ -1,6 +1,8 @@
-![](./imgs/photo.jpg){:style="float: right;margin-right: 1px;margin-top: -17px;margin-left: 20px;" height="15%" width="15%"} I'm currently a post-doc in [Paola Bonizzoni](https://www.unimib.it/paola-bonizzoni)'s lab ([BIAS](https://algolab.eu/)) at University of Milano-Bicocca.
+![](./imgs/photo.jpg){:style="float: right;margin-right: 1px;margin-top: -17px;margin-left: 20px;" height="15%" width="15%"} I'm currently a post-doc in the [CompBio](https://compbio.fmph.uniba.sk/) research group at Comenius University in Bratislava (Slovakia).
 
-My research focuses on developing heuristics and tools for the analysis of WGS data. In other words, I really enjoy programming and playing with any kind of sequencing data. 
+My main project consists in developing approaches to enhance our comprehension of structural variations, especially in repetitive regions of the genome (Horizon ERA fellowship [ASVA-CGR](https://doi.org/10.3030/101180581)).
+
+As side projects, I like to work with data structures and pangenomes.
 
 <br/> <br/>
 
