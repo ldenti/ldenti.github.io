@@ -2,15 +2,15 @@
 
 1. <i class="ai ai-open-access ai-2x"/> J.A. Cartes, P. Bonizzoni, S. Ciccolella, G. Della Vedova, L. Denti, X. Didelot, D.C. Monti, Y. Pirola\\
 **RecGraph: adding recombinations to sequence-to-graph alignment**\\
-*Bioinformatics (2024)* <a class="ai ai-doi ai-lg" href="https://doi.org/10.1093/bioinformatics/btaa779" style="text-decoration:none; color:inherit;"/>
+*Bioinformatics (2024)* <a class="ai ai-doi ai-lg" href="https://doi.org/10.1093/bioinformatics/btae292" style="text-decoration:none; color:inherit;"/>
 
-1. <i class="ai ai-biorxiv ai-2x"/>  J.A. Cartes, P. Bonizzoni, S. Ciccolella, G. Della Vedova, L. Denti\\
+1. <i class="ai ai-open-access ai-2x"/>  J.A. Cartes, P. Bonizzoni, S. Ciccolella, G. Della Vedova, L. Denti\\
 **PangeBlocks: customized construction of pangenome graphs via maximal blocks**\\
-*bioRxiv (2024)* <a class="ai ai-doi ai-lg" href="https://doi.org/10.1101/2024.09.17.613426" style="text-decoration:none; color:inherit;"/>
+*BMC Bioinformatics (2024)* <a class="ai ai-doi ai-lg" href="https://doi.org/10.1186/s12859-024-05958-5" style="text-decoration:none; color:inherit;"/>
 
-1. <i class="ai ai-biorxiv ai-2x"/>  S. Mahadevaraju, S. Pal, P. Bhaskar, B.D. McDonald, L. Benner, L. Denti, D. Cozzi, P. Bonizzoni, T.M. Przytycka, B. Oliver\\
+1. <i class="ai ai-open-access ai-2x"/>  S. Mahadevaraju, S. Pal, P. Bhaskar, B.D. McDonald, L. Benner, L. Denti, D. Cozzi, P. Bonizzoni, T.M. Przytycka, B. Oliver\\
 **Diverse somatic Transformer and sex chromosome karyotype pathways regulate gene expression in Drosophila gonad development**\\
-*bioRxiv (2024)* <a class="ai ai-doi ai-lg" href="https://doi.org/10.1101/2024.08.12.607556" style="text-decoration:none; color:inherit;"/>
+*eLife (2024)* <a class="ai ai-doi ai-lg" href="https://doi.org/10.7554/eLife.101641.1" style="text-decoration:none; color:inherit;"/>
 
 1. <i class="ai ai-closed-access ai-2x"/> L. Denti\*, P. Khorsand\*, P. Bonizzoni, F. Hormozdiari, R. Chikhi\\
 **SVDSS: structural variation discovery in hard-to-call genomic regions using sample-specific strings from accurate long reads**\\
