@@ -1,10 +1,14 @@
 # Publications
 
-1. <i class="ai ai-open-access ai-2x"/> J.A. Cartes, P. Bonizzoni, S. Ciccolella, G. Della Vedova, L. Denti, X. Didelot, D.C. Monti, Y. Pirola\\
+1. <i class="ai ai-biorxiv ai-2x"/>  S. Ciccolella, L. Denti, J. Avila Cartes, G. Della Vedova, Y. Pirola, R. Rizzi, P. Bonizzoni\\
+**Differential Analysis of Alternative Splicing Events in gene regions using Residual Neural Networks**\\
+*bioRxiv (2024)* <a class="ai ai-doi ai-lg" href="https://doi.org/10.1101/2024.10.30.621059" style="text-decoration:none; color:inherit;"/>
+
+1. <i class="ai ai-open-access ai-2x"/> J. Avila Cartes, P. Bonizzoni, S. Ciccolella, G. Della Vedova, L. Denti, X. Didelot, D.C. Monti, Y. Pirola\\
 **RecGraph: adding recombinations to sequence-to-graph alignment**\\
 *Bioinformatics (2024)* <a class="ai ai-doi ai-lg" href="https://doi.org/10.1093/bioinformatics/btae292" style="text-decoration:none; color:inherit;"/>
 
-1. <i class="ai ai-open-access ai-2x"/>  J.A. Cartes, P. Bonizzoni, S. Ciccolella, G. Della Vedova, L. Denti\\
+1. <i class="ai ai-open-access ai-2x"/>  J. Avila Cartes, P. Bonizzoni, S. Ciccolella, G. Della Vedova, L. Denti\\
 **PangeBlocks: customized construction of pangenome graphs via maximal blocks**\\
 *BMC Bioinformatics (2024)* <a class="ai ai-doi ai-lg" href="https://doi.org/10.1186/s12859-024-05958-5" style="text-decoration:none; color:inherit;"/>
 
