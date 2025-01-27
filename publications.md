@@ -1,5 +1,9 @@
 # Publications
 
+1. <i class="ai ai-open-access ai-2x"/>  S. Ciccolella, L. Denti, J. Avila Cartes, G. Della Vedova, Y. Pirola, R. Rizzi, P. Bonizzoni\\
+**Differential Analysis of Alternative Splicing Events in gene regions using Residual Neural Networks**\\
+*Neural Computing & Applications (2025)* <a class="ai ai-doi ai-lg" href="https://doi.org/10.1007/s00521-025-10992-2" style="text-decoration:none; color:inherit;"/>
+
 1. <i class="ai ai-open-access ai-2x"/>  S. Ciccolella, D. Cozzi, G. Della Vedova, S. Kuria, P. Bonizzoni, L. Denti\\
 **Differential quantification of alternative splicing events on spliced pangenome graphs**\\
 *PLOS Computational Biology (2024)* <a class="ai ai-doi ai-lg" href="https://doi.org/10.1371/journal.pcbi.1012665" style="text-decoration:none; color:inherit;"/>
@@ -15,10 +19,6 @@
 1. <i class="ai ai-open-access ai-2x"/>  S. Mahadevaraju, S. Pal, P. Bhaskar, B.D. McDonald, L. Benner, L. Denti, D. Cozzi, P. Bonizzoni, T.M. Przytycka, B. Oliver\\
 **Diverse somatic Transformer and sex chromosome karyotype pathways regulate gene expression in Drosophila gonad development**\\
 *eLife (2024)* <a class="ai ai-doi ai-lg" href="https://doi.org/10.7554/eLife.101641.1" style="text-decoration:none; color:inherit;"/>
-
-1. <i class="ai ai-biorxiv ai-2x"/>  S. Ciccolella, L. Denti, J. Avila Cartes, G. Della Vedova, Y. Pirola, R. Rizzi, P. Bonizzoni\\
-**Differential Analysis of Alternative Splicing Events in gene regions using Residual Neural Networks**\\
-*bioRxiv (2024)* <a class="ai ai-doi ai-lg" href="https://doi.org/10.1101/2024.10.30.621059" style="text-decoration:none; color:inherit;"/>
 
 1. <i class="ai ai-closed-access ai-2x"/> L. Denti\*, P. Khorsand\*, P. Bonizzoni, F. Hormozdiari, R. Chikhi\\
 **SVDSS: structural variation discovery in hard-to-call genomic regions using sample-specific strings from accurate long reads**\\
