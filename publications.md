@@ -1,5 +1,21 @@
 # Publications
 
+1. <i class="ai ai-open-access ai-2x"/> D. Cozzi, B. Riccardi, L. Denti, S. Ciccolella, K. Sadakane, P. Bonizzoni\\
+**Pangenome Graph Indexing via the Multidollar-BWT**\\
+*bioRxiv (2025)* <a class="ai ai-doi ai-lg" href="https://doi.org/10.4230/LIPIcs.SEA.2025.13" style="text-decoration:none; color:inherit;"/>
+
+1. <i class="ai ai-biorxiv ai-2x"/> L. Denti, P. Bonizzoni, B. Brejova, R. Chikhi, T. Krannich, T. Vinar, F. Hormozdiari\\
+**Pangenome graph augmentation from unassembled long reads**\\
+*bioRxiv (2025)* <a class="ai ai-doi ai-lg" href="https://doi.org/10.1101/2025.02.07.637057" style="text-decoration:none; color:inherit;"/>
+
+1. <i class="ai ai-biorxiv ai-2x"/> L. Denti, T. Krannich, T. Vinar, R. Chikhi, P. Bonizzoni, B. Brejova, F. Hormozdiari\\
+**Anyone can be the best: Impact of diverse methodologies on the evaluation of structural variant callers**\\
+*bioRxiv (2025)* <a class="ai ai-doi ai-lg" href="https://doi.org/10.1101/2025.08.28.672546" style="text-decoration:none; color:inherit;"/>
+
+1. <i class="ai ai-biorxiv ai-2x"/> J. Avila Cartes, S. Ciccolella, L. Denti, R. Dandinasivara, G. Della Vedova, P. Bonizzoni, A. Schönhuth\\
+**PanSpace: Fast and Scalable Indexing for Massive Bacterial Databases**\\
+*bioRxiv (2025)* <a class="ai ai-doi ai-lg" href="https://doi.org/10.1101/2025.03.19.644115" style="text-decoration:none; color:inherit;"/>
+
 1. <i class="ai ai-open-access ai-2x"/>  S. Ciccolella, L. Denti, J. Avila Cartes, G. Della Vedova, Y. Pirola, R. Rizzi, P. Bonizzoni\\
 **Differential Analysis of Alternative Splicing Events in gene regions using Residual Neural Networks**\\
 *Neural Computing & Applications (2025)* <a class="ai ai-doi ai-lg" href="https://doi.org/10.1007/s00521-025-10992-2" style="text-decoration:none; color:inherit;"/>
@@ -73,6 +89,13 @@
 
 # Talks
 
+1. **Pangenome graph augmentation from unassembled long reads**\\
+*RECOMBSEQ2025. Seoul, South Korea*
+*ITAT25. Telgart, Slovakia*
+*RECOMBSEQ2025. Seoul, South Korea*
+*Pangenome Bio Hacking 2025 Workshop. Online*
+
+
 1. **ESGq: Alternative Splicing Events Quantification across Conditions based on Event Splicing Graphs**\\
 *ITAT23. Tatranské Matliare, Slovakia*
 
@@ -84,18 +107,13 @@
 
 1. **Comparative genome analysis using sample-specific string detection in accurate long reads**\\
 *HiTSeq2021 - Lyon, France (virtual)*
-
-1. **Comparative genome analysis using sample-specific string detection in accurate long reads**\\
 *DSB2021 - Milano, Italy (virtual)*
 
 1. **Dynamic quasi-minimal perfect hash function for k-mers** *(work-in-progress talk)*\\
 *DSB2020 - Rennes, France*
 
-
 1. **MALVA: genotyping by Mapping-free ALlele detection of known VAriants**\\
 *BITS2019 - Palermo, Italy*
-
-1. **MALVA: genotyping by Mapping-free ALlele detection of known VAriants**\\
 *RECOMBSEQ2019 - Washington DC, USA*
 
 1. **Mapping RNA-seq data to a transcript graph via approximate pattern matching to a hypertext**\\
