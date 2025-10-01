@@ -90,11 +90,9 @@
 # Talks
 
 1. **Pangenome graph augmentation from unassembled long reads**\\
-*RECOMBSEQ2025. Seoul, South Korea*
-*ITAT25. Telgart, Slovakia*
-*RECOMBSEQ2025. Seoul, South Korea*
+*RECOMBSEQ2025. Seoul, South Korea*\\
+*ITAT25. Telgart, Slovakia*\\
 *Pangenome Bio Hacking 2025 Workshop. Online*
-
 
 1. **ESGq: Alternative Splicing Events Quantification across Conditions based on Event Splicing Graphs**\\
 *ITAT23. Tatranské Matliare, Slovakia*
@@ -106,14 +104,14 @@
 *Nov. 9, 2022. Comenius University (invited by Tomas Vinar)*
 
 1. **Comparative genome analysis using sample-specific string detection in accurate long reads**\\
-*HiTSeq2021 - Lyon, France (virtual)*
+*HiTSeq2021 - Lyon, France (virtual)*\\
 *DSB2021 - Milano, Italy (virtual)*
 
 1. **Dynamic quasi-minimal perfect hash function for k-mers** *(work-in-progress talk)*\\
 *DSB2020 - Rennes, France*
 
 1. **MALVA: genotyping by Mapping-free ALlele detection of known VAriants**\\
-*BITS2019 - Palermo, Italy*
+*BITS2019 - Palermo, Italy*\\
 *RECOMBSEQ2019 - Washington DC, USA*
 
 1. **Mapping RNA-seq data to a transcript graph via approximate pattern matching to a hypertext**\\
