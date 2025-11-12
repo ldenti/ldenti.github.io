@@ -17,6 +17,8 @@ Supervisors: Paola Bonizzoni, Raffaella Rizzi, and Marco Previtali
 <br/>
 
 ### Software
+* [palss](https://github.com/ldenti/palss), a tool for augmenting pangenome graph from unassembled long reads (WIP)
+* [svbench-fw](https://github.com/ldenti/svbench-fw), a modular and extensible framework to evaluate SV callers
 * [SVDSS](https://github.com/Parsoa/SVDSS), a tool for calling SVs from PacBio HiFi data
 * [pantas](https://github.com/AlgoLab/pantas), a tool for quantifying AS events from spliced pangenome graphs
 * [ESGq](https://github.com/AlgoLab/ESGq), a tool for quantifying annotated AS events using event splicing graphs
@@ -28,7 +30,7 @@ Supervisors: Paola Bonizzoni, Raffaella Rizzi, and Marco Previtali
 <br/>
 
 <div align="right">
-     <a class="fa fa-envelope fa-3x" href="mailto:luca.denti@unimib.it" style="text-decoration:none; color:inherit;"></a>
+     <a class="fa fa-envelope fa-3x" href="mailto:denti1@uniba.sk" style="text-decoration:none; color:inherit;"></a>
      <a class="ai ai-cv fa-3x" href="/resume/resume.pdf" style="text-decoration:none; color:inherit;"></a>	
      <a class="ai ai-google-scholar ai-3x" href="https://scholar.google.com/citations?user=9lFuILoAAAAJ" style="text-decoration:none; color:inherit;"></a>
      <a class="ai ai-orcid ai-3x" href="https://orcid.org/0000-0001-8786-2276" style="text-decoration:none; color:inherit;"></a>

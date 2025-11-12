@@ -1,8 +1,16 @@
 # Publications
 
+1. <i class="ai ai-open-access ai-2x"/> A. Petescia, L. Denti, A. Gafurov, V. Hodorova, J. Nosek, B. Brejova, T. Vinar\\
+**Alignment-free Detection of Differences Between Sequencing Data Sets**\\
+*iScience (2025)*  <a class="ai ai-doi ai-lg" href="https://doi.org/10.1016/j.isci.2025.113828" style="text-decoration:none; color:inherit;"/>
+
 1. <i class="ai ai-open-access ai-2x"/> D. Cozzi, B. Riccardi, L. Denti, S. Ciccolella, K. Sadakane, P. Bonizzoni\\
 **Pangenome Graph Indexing via the Multidollar-BWT**\\
-*bioRxiv (2025)* <a class="ai ai-doi ai-lg" href="https://doi.org/10.4230/LIPIcs.SEA.2025.13" style="text-decoration:none; color:inherit;"/>
+*SEA Proceedings (2025)* <a class="ai ai-doi ai-lg" href="https://doi.org/10.4230/LIPIcs.SEA.2025.13" style="text-decoration:none; color:inherit;"/>
+
+1. <i class="ai ai-open-access ai-2x"/> L. Denti, Y. Shibuya\\
+**Weighted de novo clustering of third-generation transcriptomic datasets**\\
+*ITAT Proceedings (2025)* <!--<a class="ai ai-ceur ai-lg" href="https://ceur-ws.org/Vol-3498/paper31.pdf" style="text-decoration:none; color:inherit;"/>-->
 
 1. <i class="ai ai-biorxiv ai-2x"/> L. Denti, P. Bonizzoni, B. Brejova, R. Chikhi, T. Krannich, T. Vinar, F. Hormozdiari\\
 **Pangenome graph augmentation from unassembled long reads**\\
@@ -66,7 +74,7 @@
 
 1. <i class="ai ai-open-access ai-2x"/> L. Denti\*, M. Previtali\*, G. Bernardini, A. Schönhuth, P. Bonizzoni\\
 **MALVA: genotyping by Mapping-free ALlele detection of known VAriants**\\
-*Iscience (2019)*  <a class="ai ai-doi ai-lg" href="https://doi.org/10.1016/j.isci.2019.07.011" style="text-decoration:none; color:inherit;"/>
+*iScience (2019)*  <a class="ai ai-doi ai-lg" href="https://doi.org/10.1016/j.isci.2019.07.011" style="text-decoration:none; color:inherit;"/>
 
 1. <i class="ai ai-elsevier ai-2x"/> S. Beretta, L. Denti, M. Previtali\\
 **Graph Theory and Definitions**\\
