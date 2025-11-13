@@ -10,7 +10,7 @@
 
 1. <i class="ai ai-open-access ai-2x"/> L. Denti, Y. Shibuya\\
 **Weighted de novo clustering of third-generation transcriptomic datasets**\\
-*ITAT Proceedings (2025)* <!--<a class="ai ai-ceur ai-lg" href="https://ceur-ws.org/Vol-3498/paper31.pdf" style="text-decoration:none; color:inherit;"/>-->
+*ITAT Proceedings (2025)* <a class="ai ai-ceur ai-lg" href="https://ceur-ws.org/Vol-4092/paper24.pdf" style="text-decoration:none; color:inherit;"/>
 
 1. <i class="ai ai-biorxiv ai-2x"/> L. Denti, P. Bonizzoni, B. Brejova, R. Chikhi, T. Krannich, T. Vinar, F. Hormozdiari\\
 **Pangenome graph augmentation from unassembled long reads**\\
