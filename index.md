@@ -1,4 +1,6 @@
-![](./imgs/photo.jpg){:style="float: right;margin-right: 1px;margin-top: -17px;margin-left: 20px;" height="15%" width="15%"} I'm currently a post-doc in the [CompBio](https://compbio.fmph.uniba.sk/) research group at Comenius University in Bratislava (Slovakia).
+<!-- ![](./imgs/photo.jpg){:style="float: right;margin-right: 1px;margin-top: -17px;margin-left: 20px;" height="15%" width="15%"} -->
+
+I'm currently a post-doc in the [CompBio](https://compbio.fmph.uniba.sk/) research group at Comenius University in Bratislava (Slovakia).
 
 My main project consists in developing approaches to enhance our comprehension of structural variations, especially in repetitive regions of the genome (Horizon ERA fellowship [ASVA-CGR](https://doi.org/10.3030/101180581)).
 
