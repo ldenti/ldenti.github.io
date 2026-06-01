@@ -1,4 +1,4 @@
-<!-- ![](./imgs/photo.jpg){:style="float: right;margin-right: 1px;margin-top: -17px;margin-left: 20px;" height="15%" width="15%"} -->
+![](./imgs/photo.jpg){:style="float: right;margin-right: 1px;margin-top: -17px;margin-left: 20px;" height="15%" width="15%"}
 
 I'm currently a post-doc in the [CompBio](https://compbio.fmph.uniba.sk/) research group at Comenius University in Bratislava (Slovakia).
 

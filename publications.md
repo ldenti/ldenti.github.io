@@ -129,6 +129,9 @@
 <br/>
 
 # Posters
+1. **Challenges and Pitfalls in the Evaluation of Structural Variants Callers** <a class="fa fa-file-pdf-o" href="/pdfs/svbench_recomb2026.pdf" style="text-decoration:none; color:inherit;"></a>\\
+*RECOMBSEQ2026 and RECOMB2026*
+
 1. **MALVA: genotyping by Mapping-free ALlele detection of known VAriants** <a class="fa fa-file-pdf-o" href="/pdfs/malva_recomb2019.pdf" style="text-decoration:none; color:inherit;"></a>\\
 *RECOMB2019*
 
