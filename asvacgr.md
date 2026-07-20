@@ -1,8 +1,14 @@
 # ASVA-CGR
 
-Algorithms for Structural Variation Analysis in Challenging Genomic Regions - Grant agreement ID: 101180581. <a class="ai ai-doi ai-lg" href="https://doi.org/10.3030/101180581" style="text-decoration:none; color:inherit;"/>
+Algorithms for Structural Variation Analysis in Challenging Genomic Regions
 
-Funded under "Widening participation and spreading excellence" (funding scheme: HORIZON TMA MSCA Postdoctoral Fellowships - European Fellowships).
+Grant agreement ID: 101180581
+
+Funded under the "HORIZON.4.1 - Widening participation and spreading excellence" programme.
+
+Funding scheme: HORIZON TMA MSCA Postdoctoral Fellowships - European Fellowships.
+
+[https://doi.org/10.3030/101180581](https://doi.org/10.3030/101180581)
 
 ## Outcomes
 
