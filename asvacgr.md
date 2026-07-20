@@ -1,6 +1,8 @@
 # ASVA-CGR
 
-Algorithms for Structural Variation Analysis in Challenging Genomic Regions <a class="ai ai-doi ai-lg" href="https://doi.org/10.3030/101180581" style="text-decoration:none; color:inherit;"/> Funded under "Widening participation and spreading excellence" (funding scheme: HORIZON TMA MSCA Postdoctoral Fellowships - European Fellowships). Grant agreement ID: 101180581.
+Algorithms for Structural Variation Analysis in Challenging Genomic Regions - Grant agreement ID: 101180581. <a class="ai ai-doi ai-lg" href="https://doi.org/10.3030/101180581" style="text-decoration:none; color:inherit;"/>
+
+Funded under "Widening participation and spreading excellence" (funding scheme: HORIZON TMA MSCA Postdoctoral Fellowships - European Fellowships).
 
 ## Outcomes
 
@@ -57,7 +59,7 @@ Invited talks:
 *Pangenome Bio Hacking 2025 Workshop (online - January 22-24, 2025)*
 
 * **Foundations of Sequence Bioinformatics** <a class="fa fa-file-pdf-o" href="/pdfs/hpp2026.pdf" style="text-decoration:none; color:inherit;"></a>\\
-* The Human Pangenome Project - For an inclusive genomics (Milano, Italy - July 9, 2026)*
+*The Human Pangenome Project - For an inclusive genomics (Milano, Italy - July 9, 2026)*
 
 Talks:
 
