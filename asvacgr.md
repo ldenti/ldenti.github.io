@@ -1,12 +1,12 @@
 # ASVA-CGR
 
-Algorithms for Structural Variation Analysis in Challenging Genomic Regions
-
-Grant agreement ID: 101180581
+*Algorithms for Structural Variation Analysis in Challenging Genomic Regions*
 
 Funded under the "HORIZON.4.1 - Widening participation and spreading excellence" programme.
 
-Funding scheme: HORIZON TMA MSCA Postdoctoral Fellowships - European Fellowships.
+<ins>Grant agreement ID:</ins> 101180581
+
+<ins>Funding scheme:</ins> HORIZON TMA MSCA Postdoctoral Fellowships - European Fellowships.
 
 [https://doi.org/10.3030/101180581](https://doi.org/10.3030/101180581)
 
@@ -71,7 +71,7 @@ Talks:
 
 * **Pangenome graph augmentation from unassembled long reads**\\
 *RECOMBSEQ2025. Seoul, South Korea* <a class="fa fa-file-pdf-o" href="/pdfs/RECOMBSEQ25.pdf" style="text-decoration:none; color:inherit;"></a>\\
-*ITAT25. Telgart, Slovakia* <a class="fa fa-file-pdf-o" href="/pdfs/ITAT25.pdf" style="text-decoration:none; color:inherit;"></a>\\
+*ITAT25. Telgart, Slovakia* <a class="fa fa-file-pdf-o" href="/pdfs/ITAT25.pdf" style="text-decoration:none; color:inherit;"></a>
 
 Posters:
 * **Challenges and Pitfalls in the Evaluation of Structural Variants Callers** <a class="fa fa-file-pdf-o" href="/pdfs/svbench_recomb2026.pdf" style="text-decoration:none; color:inherit;"></a>\\
