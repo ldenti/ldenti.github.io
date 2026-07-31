@@ -74,7 +74,7 @@ Talks:
 *ITAT25. Telgart, Slovakia* <a class="fa fa-file-pdf-o" href="/pdfs/ITAT25.pdf" style="text-decoration:none; color:inherit;"></a>
 
 Posters:
-* **Challenges and Pitfalls in the Evaluation of Structural Variants Callers** <a class="fa fa-file-pdf-o" href="/pdfs/svbench_recomb2026.pdf" style="text-decoration:none; color:inherit;"></a>\\
+* **Challenges and Pitfalls in the Evaluation of Structural Variants Callers** <a class="fa fa-file-pdf-o" href="/pdfs/svbench_recomb2026.pdf" style="text-decoration:none; color:inherit;"></a> (lightning talk: <a class="fa fa-file-pdf-o" href="/pdfs/svbench_lt_recombseq2026.pdf" style="text-decoration:none; color:inherit;"></a>)\\
 *RECOMBSEQ2026 and RECOMB2026*
 
 * **Pangenome-based characterization of novel genetic variants** <a class="fa fa-file-pdf-o" href="/pdfs/matfyz2025.pdf" style="text-decoration:none; color:inherit;"></a>\\
