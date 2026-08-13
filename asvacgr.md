@@ -12,13 +12,18 @@ Funded under the "HORIZON.4.1 - Widening participation and spreading excellence"
 
 ## Outcomes
 
-The project outcomes can be summarized in two categories:
-* pangenomics
-* genetic variations
+The project aimed to design algorithms and develop software tools to facilitate and improve genomic analyses of structural variations from sequencing datasets. It focused on two main scientific themes: structural variations and pangenomics.
+
+### Structural Variations
+Accurate characterization of structural variations (genomic rearrangements affecting large DNA segments) plays a key role in unveiling their effects on human health, including their links with genetic diseases and tumors. Accordingly, our work pursued two complementary objectives: (i) an investigation of current best practices, along with their limitations, for benchmarking SV callers and (ii) the development of a new software tool for the discovery of somatic structural variations.
 
 ### Pangenomics
+In parallel, we investigated how pangenomics can help us achieve our goal of characterizing structural variations. Since pangenomics is an emerging research field, we first established the algorithmic foundation and focused on designing data structures and algorithms that enable the practical use of pangenome graphs within existing genomic analysis pipelines. These developments will facilitate the analyses and interpretation of structural variations.
 
-### Genetic Variations
+### Additional results
+
+Over the course of the project, we also collaborated with other researchers on detecting differences between sequencing datasets, clustering third-generation transcriptomic datasets, and indexing massive bacterial databases.
+
 
 ## Publications
 
