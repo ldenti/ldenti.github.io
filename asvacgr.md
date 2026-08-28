@@ -27,6 +27,10 @@ Over the course of the project, we also collaborated with other researchers on d
 
 ## Publications
 
+1. <i class="ai ai-open-access ai-2x"/>  D. Andrukhovskyi, M. Madzin, L. Denti, T. Vinař, B. Brejová\\
+**Efficient Algorithms for Pangenome Personalization**\\
+*WABI Proceedings (2026)* <a class="ai ai-doi ai-lg" href="https://doi.org/10.4230/LIPIcs.WABI.2026.8" style="text-decoration:none; color:inherit;"/>
+
 1. <i class="ai ai-open-access ai-2x"/> A. Petescia, L. Denti, A. Gafurov, V. Hodorova, J. Nosek, B. Brejova, T. Vinar\\
 **Alignment-free Detection of Differences Between Sequencing Data Sets**\\
 *iScience (2025)*  <a class="ai ai-doi ai-lg" href="https://doi.org/10.1016/j.isci.2025.113828" style="text-decoration:none; color:inherit;"/>

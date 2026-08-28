@@ -1,6 +1,10 @@
 # Publications
 
-1. <i class="ai ai-open-access ai-2x"/> A. Petescia, L. Denti, A. Gafurov, V. Hodorova, J. Nosek, B. Brejova, T. Vinar\\
+1. <i class="ai ai-open-access ai-2x"/>  D. Andrukhovskyi, M. Madzin, L. Denti, T. Vinař, B. Brejová\\
+**Efficient Algorithms for Pangenome Personalization**\\
+*WABI Proceedings (2026)* <a class="ai ai-doi ai-lg" href="https://doi.org/10.4230/LIPIcs.WABI.2026.8" style="text-decoration:none; color:inherit;"/>
+
+1. <i class="ai ai-open-access ai-2x"/> A. Petescia, L. Denti, A. Gafurov, V. Hodorova, J. Nosek, B. Brejova, T. Vinař\\
 **Alignment-free Detection of Differences Between Sequencing Data Sets**\\
 *iScience (2025)*  <a class="ai ai-doi ai-lg" href="https://doi.org/10.1016/j.isci.2025.113828" style="text-decoration:none; color:inherit;"/>
 
@@ -12,11 +16,11 @@
 **Weighted de novo clustering of third-generation transcriptomic datasets**\\
 *ITAT Proceedings (2025)* <a class="ai ai-ceur ai-lg" href="https://ceur-ws.org/Vol-4092/paper24.pdf" style="text-decoration:none; color:inherit;"/>
 
-1. <i class="ai ai-biorxiv ai-2x"/> L. Denti, P. Bonizzoni, B. Brejova, R. Chikhi, T. Krannich, T. Vinar, F. Hormozdiari\\
+1. <i class="ai ai-biorxiv ai-2x"/> L. Denti, P. Bonizzoni, B. Brejová, R. Chikhi, T. Krannich, T. Vinař, F. Hormozdiari\\
 **Pangenome graph augmentation from unassembled long reads**\\
 *bioRxiv (2025)* <a class="ai ai-doi ai-lg" href="https://doi.org/10.1101/2025.02.07.637057" style="text-decoration:none; color:inherit;"/>
 
-1. <i class="ai ai-biorxiv ai-2x"/> L. Denti, T. Krannich, T. Vinar, R. Chikhi, P. Bonizzoni, B. Brejova, F. Hormozdiari\\
+1. <i class="ai ai-biorxiv ai-2x"/> L. Denti, T. Krannich, T. Vinař, R. Chikhi, P. Bonizzoni, B. Brejová, F. Hormozdiari\\
 **Anyone can be the best: Impact of diverse methodologies on the evaluation of structural variant callers**\\
 *bioRxiv (2025)* <a class="ai ai-doi ai-lg" href="https://doi.org/10.1101/2025.08.28.672546" style="text-decoration:none; color:inherit;"/>
 
@@ -109,7 +113,7 @@
 *RECOMB2023 - Instanbul, Turkey*
 
 1. **Structural Variations Discovery from Specific Strings**\\
-*Nov. 9, 2022. Comenius University (invited by Tomas Vinar)*
+*Nov. 9, 2022. Comenius University (invited by Tomáš Vinař)*
 
 1. **Comparative genome analysis using sample-specific string detection in accurate long reads**\\
 *HiTSeq2021 - Lyon, France (virtual)*\\
