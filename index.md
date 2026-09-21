@@ -1,10 +1,10 @@
 ![](./imgs/photo.jpg){:style="float: right;margin-right: 1px;margin-top: -17px;margin-left: 20px;" height="27%" width="27%"}
 
-I'm currently a post-doc in the [CompBio](https://compbio.fmph.uniba.sk/) research group at Comenius University in Bratislava (Slovakia).
+I am currently an assistant professor in the Department of Applied Informatics at Comenius University in Bratislava (Slovakia). I am a member of the [CompBio](https://compbio.fmph.uniba.sk/) research group.
 
-My main project consists in developing approaches to enhance our comprehension of structural variations, especially in repetitive regions of the genome (Horizon ERA fellowship [ASVA-CGR](https://doi.org/10.3030/101180581)).
+My research focuses on developing computational approaches to improve our understanding of structural variations, particularly in repetitive regions of the genome. I recently completed a Horizon ERA fellowship on this topic ([ASVA-CGR](https://doi.org/10.3030/101180581)).
 
-As side projects, I like to work with data structures and pangenomes.
+As secondary research interests, I also work on data structures and pangenomes.
 
 <br/> <br/>
 
@@ -38,7 +38,6 @@ Supervisors: Paola Bonizzoni, Raffaella Rizzi, and Marco Previtali
      <a class="ai ai-orcid ai-3x" href="https://orcid.org/0000-0001-8786-2276" style="text-decoration:none; color:inherit;"></a>
      <a class="ai ai-publons ai-3x" href="https://publons.com/researcher/3334891/luca-denti/" style="text-decoration:none; color:inherit;"></a>
      <a class="fa fa-github-square fa-3x" href="https://github.com/ldenti/" style="text-decoration:none; color:inherit;"></a>
-     <a class="fa fa-twitter-square fa-3x" href="https://twitter.com/l_denti" style="text-decoration:none; color:inherit;"></a>
      <a class="fa fa-steam-square fa-3x" href="https://steamcommunity.com/profiles/76561198038722238/" style="text-decoration:none; color:inherit;"></a>
 </div>
 
