@@ -12,10 +12,6 @@
 **The Genome In A Bottle HG002 assembly-based variant benchmark set enables comprehensive benchmarking of small and structural variants.**\\
 *bioRxiv (2026)* <a class="ai ai-doi ai-lg" href="https://doi.org/10.64898/2026.09.23.752440" style="text-decoration:none; color:inherit;"/>
 
-1. <i class="ai ai-biorxiv ai-2x"/> D.C. Monti, S. Ciccolella, D. Cozzi, G. Della Vedova, P. Bonizzoni, L. Denti, and F. Hormozdiari\\
-**Somatic Structural Variant Discovery from Tumor Specific Strings Computed Against a Draft Composite Germline Reference**\\
-*bioRxiv (2026)* <a class="ai ai-doi ai-lg" href="https://doi.org/10.64898/2026.11.06.764802" style="text-decoration:none; color:inherit;"/>
-
 1. <i class="ai ai-open-access ai-2x"/> A. Petescia, L. Denti, A. Gafurov, V. Hodorova, J. Nosek, B. Brejova, T. Vinař\\
 **Alignment-free Detection of Differences Between Sequencing Data Sets**\\
 *iScience (2025)*  <a class="ai ai-doi ai-lg" href="https://doi.org/10.1016/j.isci.2025.113828" style="text-decoration:none; color:inherit;"/>
